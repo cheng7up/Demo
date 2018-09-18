@@ -4,7 +4,6 @@ public class Demo {
 
 	public static void main(String[] args) {
 		System.out.println("Nothing to see here");
-		System.out.println("Nothing to see here");
 	}
 
 	public static int somethingRandom() {
